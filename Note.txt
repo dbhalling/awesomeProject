@@ -1,1 +1,7 @@
-hthttps://stackoverflow.com/questions/40898934/unable-to-connect-with-remote-debugger
+https://stackoverflow.com/questions/40898934/unable-to-connect-with-remote-debugger
+http://localhost:8081/debugger-ui
+
+start android studio android-studio/bin: sh studio.sh
+start react navtive from project file: react-native run-android
+
+Random command if enviroment does not start up "react-native link"
